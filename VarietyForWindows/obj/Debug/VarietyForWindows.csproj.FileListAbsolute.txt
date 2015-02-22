@@ -1,0 +1,20 @@
+C:\Users\Anirudh\Documents\Visual Studio 2013\Projects\VarietyForWindows\VarietyForWindows\obj\Debug\VarietyForWindows.MainFile.resources
+C:\Users\Anirudh\Documents\Visual Studio 2013\Projects\VarietyForWindows\VarietyForWindows\obj\Debug\VarietyForWindows.Properties.Resources.resources
+C:\Users\Anirudh\Documents\Visual Studio 2013\Projects\VarietyForWindows\VarietyForWindows\obj\Debug\VarietyForWindows.csproj.GenerateResource.Cache
+C:\Users\Anirudh\Documents\Visual Studio 2013\Projects\VarietyForWindows\VarietyForWindows\bin\Debug\VarietyForWindows.exe.config
+C:\Users\Anirudh\Documents\Visual Studio 2013\Projects\VarietyForWindows\VarietyForWindows\bin\Debug\VarietyForWindows.exe
+C:\Users\Anirudh\Documents\Visual Studio 2013\Projects\VarietyForWindows\VarietyForWindows\bin\Debug\VarietyForWindows.pdb
+C:\Users\Anirudh\Documents\Visual Studio 2013\Projects\VarietyForWindows\VarietyForWindows\bin\Debug\ImageProcessor.dll
+C:\Users\Anirudh\Documents\Visual Studio 2013\Projects\VarietyForWindows\VarietyForWindows\obj\Debug\VarietyForWindows.exe
+C:\Users\Anirudh\Documents\Visual Studio 2013\Projects\VarietyForWindows\VarietyForWindows\obj\Debug\VarietyForWindows.pdb
+C:\Users\Anirudh\Documents\Visual Studio 2013\Projects\VarietyForWindows\VarietyForWindows\obj\Debug\VarietyForWindows.csprojResolveAssemblyReference.cache
+C:\Users\Anirudh\Dropbox\VarietyForWindows\VarietyForWindows\bin\Debug\VarietyForWindows.exe.config
+C:\Users\Anirudh\Dropbox\VarietyForWindows\VarietyForWindows\obj\Debug\VarietyForWindows.exe
+C:\Users\Anirudh\Dropbox\VarietyForWindows\VarietyForWindows\obj\Debug\VarietyForWindows.pdb
+C:\Users\Anirudh\Dropbox\VarietyForWindows\VarietyForWindows\obj\Debug\VarietyForWindows.csprojResolveAssemblyReference.cache
+C:\Users\Anirudh\Dropbox\VarietyForWindows\VarietyForWindows\obj\Debug\VarietyForWindows.MainFile.resources
+C:\Users\Anirudh\Dropbox\VarietyForWindows\VarietyForWindows\obj\Debug\VarietyForWindows.csproj.GenerateResource.Cache
+C:\Users\Anirudh\Dropbox\VarietyForWindows\VarietyForWindows\bin\Debug\VarietyForWindows.exe
+C:\Users\Anirudh\Dropbox\VarietyForWindows\VarietyForWindows\bin\Debug\VarietyForWindows.pdb
+C:\Users\Anirudh\Dropbox\VarietyForWindows\VarietyForWindows\bin\Debug\ImageProcessor.dll
+C:\Users\Anirudh\Dropbox\VarietyForWindows\VarietyForWindows\obj\Debug\VarietyForWindows.Properties.Resources.resources
